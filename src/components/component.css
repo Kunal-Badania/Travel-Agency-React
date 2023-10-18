@@ -1,0 +1,8 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-link {
+  margin-right: var(--dl-space-space-doubleunit);
+  text-decoration: none;
+}
